@@ -6,6 +6,7 @@
 
   <groupId>devops</groupId>
   <artifactId>MAVEN_SAMPLE</artifactId>
+  <packaging> war </packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>MAVEN_SAMPLE</name>
